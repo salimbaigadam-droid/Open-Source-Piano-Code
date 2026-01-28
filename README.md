@@ -360,4 +360,4 @@ MIT License - Feel free to use and modify for your projects!
 
 ---
 
-Built with ❤️ using React, Python, Go, and Rust
+Built with Salimbai and teamCoder using React, Python, Go, and Rust
